@@ -5,7 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=holzjuang&show_icons=true&bg_color=00000000&theme=dark)" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holzjuang&layout=donut" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holzjuang&layout=donut&theme=dark" /> 
 
 #
 
